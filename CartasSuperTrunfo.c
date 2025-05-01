@@ -8,7 +8,7 @@
 
 int main() {
     printf ("Desafio Super Trunfo\n");
-    // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
+   printf ("novo comit\n");
     
     // Cadastro das Cartas:
     // Sugestão: Utilize a função scanf para capturar as entradas do usuário para cada atributo.
